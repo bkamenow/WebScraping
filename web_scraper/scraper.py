@@ -10,13 +10,25 @@ def sort_info(info):
     return sorted(info, key=lambda x: float(x[1].replace(' лв.', '')))
 
 
-def get_info(url, pattern, replace_list=None):
+def scrape_page(url, pattern, replace_list=None):
     response = requests.get(url)
     response.raise_for_status()
+
     soup = BeautifulSoup(response.text, 'html.parser')
 
+    data = get_data(soup, pattern, replace_list)
+
+    next_page_link = soup.find('a', title='Следваща страница')
+    if next_page_link is not None:
+        href = next_page_link.get('href')
+        scrape_page(href, pattern, replace_list)
+
+    return data
+
+
+def get_data(content, pattern, replace_list):
     # Find the list of item and iterate through each article
-    list_results = soup.find(id='list-results')
+    list_results = content.find(id='list-results')
     articles = list_results.find_all('article')
 
     info = []
@@ -68,3 +80,5 @@ def print_info(info):
     print('Name: Price')
     for name, price in info:
         print(f"{name}: {price}")
+
+

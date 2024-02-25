@@ -20,14 +20,11 @@ def get_gaming_laptops_info(info):
 
 
 if __name__ == '__main__':
-    pattern = r'^([^,]+)'
-
     url = 'https://plasico.bg/laptopi-i-aksesoari/laptopi/filter-F107'
-
+    file_path = 'gaming_laptops.json'
+    pattern = r'^([^,]+)'
     replace = ['UPGRADED ']
 
-    file_path = 'gaming_laptops.json'
+    data = scraper.scrape_page(url, pattern, replace)
 
-    info = scraper.get_info(url, pattern, replace_list=replace)
-
-    get_gaming_laptops_info(info)
+    get_gaming_laptops_info(data)

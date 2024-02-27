@@ -10,7 +10,7 @@ def sort_info(info):
     return sorted(info, key=lambda x: float(x[1].replace(' лв.', '')))
 
 
-def scrape_page(url, pattern, replace_list=None):
+def scrape_page(url, pattern=None, replace_list=None):
     data = []
     while url:
         response = requests.get(url)
@@ -28,7 +28,6 @@ def scrape_page(url, pattern, replace_list=None):
     return data
 
 
-
 def get_data(content, pattern, replace_list):
     # Find the list of item and iterate through each article
     list_results = content.find(id='list-results')
@@ -39,16 +38,19 @@ def get_data(content, pattern, replace_list):
     # Extract desk name and price for each article
     for ar in articles:
         title = ar.find(class_='ttl').text
-        match = re.search(pattern, title)
-        if match:
-            name = match.group(1)
-            price = ar.find(class_='price').text.strip()
+        price = ar.find(class_='price').text.strip()
+        name = title
 
-            if replace_list:
-                for replace_item in replace_list:
-                    name = name.replace(replace_item, '')
+        if pattern is not None:
+            match = re.search(pattern, title)
+            if match:
+                name = match.group(1)
 
-            info.append((name, price))
+        if replace_list:
+            for replace_item in replace_list:
+                name = name.replace(replace_item, '')
+
+        info.append((name, price))
 
     sort_list = sort_info(info)
 
@@ -83,5 +85,3 @@ def print_info(info):
     print('Name: Price')
     for name, price in info:
         print(f"{name}: {price}")
-
-

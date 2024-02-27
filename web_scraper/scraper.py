@@ -11,19 +11,22 @@ def sort_info(info):
 
 
 def scrape_page(url, pattern, replace_list=None):
-    response = requests.get(url)
-    response.raise_for_status()
+    data = []
+    while url:
+        response = requests.get(url)
+        response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
+        data += get_data(soup, pattern, replace_list)
 
-    data = get_data(soup, pattern, replace_list)
-
-    next_page_link = soup.find('a', title='Следваща страница')
-    if next_page_link is not None:
-        href = next_page_link.get('href')
-        scrape_page(href, pattern, replace_list)
+        next_page_link = soup.find('a', title='Следваща страница')
+        if next_page_link:
+            url = next_page_link.get('href')
+        else:
+            url = None
 
     return data
+
 
 
 def get_data(content, pattern, replace_list):

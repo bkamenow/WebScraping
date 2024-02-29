@@ -1,0 +1,848 @@
+[
+    {
+        "Intel Core i3-10100F (4.3GHz) |\r\n BOX": "134.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4500 (4.1GHz) | BOX": "164.99 лв."
+    },
+    {
+        "AMD Ryzen 3 PRO 1200 (3.4GHz) | Tray": "169.99 лв."
+    },
+    {
+        "Intel Core i3-13100F (4.5GHz) | BOX": "259.99 лв."
+    },
+    {
+        "Intel Core i3-14100F (3.5GHz) Tray": "264.99 лв."
+    },
+    {
+        "Intel Core i3-14100F (3.5GHz) BOX": "264.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600 (4.4GHz) | Tray": "269.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz) | Tray": "339.99 лв."
+    },
+    {
+        "Intel Core i5-10600KF (4.8GHz) | Tray": "339.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7500F Tray": "364.99 лв."
+    },
+    {
+        "AMD Ryzen 7 PRO 4750G (4.4 GHz) | Tray": "369.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X (4.6GHz) | Tray": "369.99 лв."
+    },
+    {
+        "Intel Core i5-11600KF (3.90GHz up to 4.90GHz) Tray": "389.99 лв."
+    },
+    {
+        "AMD Ryzen7 5700G 8-Core (Up to 4.6 GHz,16MB, 65W, AM4) TRAY": "399.99 лв."
+    },
+    {
+        "Intel Core i5-13400F (4.6GHz) | Tray": "439.99 лв."
+    },
+    {
+        "Intel® Core™ i5-12600KF (20M Cache, up to 4.90 GHz) TRAY": "444.99 лв."
+    },
+    {
+        "Intel Core i5-14400F (2.5GHz) BOX": "448.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5800X 8-Core (Up to 4.7GHz, 36MB, 105W, AM4) Tray": "449.99 лв."
+    },
+    {
+        "Intel Core i5-14400F (2.5GHz) Tray": "454.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600X (5.3GHz) | Tray": "494.99 лв."
+    },
+    {
+        "Intel Core i5-12500 (4.6GHz) | BOX": "498.99 лв."
+    },
+    {
+        "Intel Core i5-13500 (4.8GHz) | BOX": "519.99 лв."
+    },
+    {
+        "Intel Core i5-11600 (4.8GHz) | BOX": "599.99 лв."
+    },
+    {
+        "Intel® Core™ i9-11900KF (16M Cache, up to 5.30 GHz) Tray": "639.99 лв."
+    },
+    {
+        "Intel Celeron G5905 (3.5GHz) | Tray": "89.99 лв."
+    },
+    {
+        "Intel Celeron G5905 (3.5GHz) | BOX": "109.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4100 (4.0GHz) | BOX": "144.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4100 (4.0GHz) | MPK": "144.99 лв."
+    },
+    {
+        "Intel Celeron G6900 (3.4GHz) | BOX": "144.99 лв."
+    },
+    {
+        "Intel Pentium Gold G6405 (4.1GHz) | BOX": "148.99 лв."
+    },
+    {
+        "Intel Core i7-12700KF (5.0GHz) | Tray": "619.99 лв."
+    },
+    {
+        "Intel Core i5-13600KF (3.5GHz/5.1GHz) | BOX w/o Fan": "624.99 лв."
+    },
+    {
+        "Intel Core i5-13600KF (3.5GHz/5.1GHz) | Tray": "629.99 лв."
+    },
+    {
+        "Intel Core i5-14600KF (3.5GHz/5.3GHz) | Tray": "639.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5800X3D (4.5GHz) | BOX w/o Fan": "644.99 лв."
+    },
+    {
+        "AMD Ryzen 9 5900X (4.8GHz) | BOX w/o Fan": "644.99 лв."
+    },
+    {
+        "AMD Ryzen 9 5900X 12-Core (Up to 4.8GHz, 70MB, 105W, AM4) Tray": "649.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700 (5.3GHz) | BOX": "664.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700X (5.4GHz) | Tray": "719.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7800X3D (5.0GHz) | BOX": "838.99 лв."
+    },
+    {
+        "Intel Core i7-13700KF (5.4GHz) | BOX w/o Fan": "859.99 лв."
+    },
+    {
+        "Intel Core i7-14700KF (3.4GHz up to 5.6GHz) BOX": "869.99 лв."
+    },
+    {
+        "Intel Core i9-12900KF (5.2GHz) | BOX w/o Fan": "919.99 лв."
+    },
+    {
+        "AMD Ryzen 9 5950X (4.9GHz) | BOX w/o Fan": "1048.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X (4.5GHz) | Tray": "1158.99 лв."
+    },
+    {
+        "Intel Core i9-13900KF (3.0GHz/5.8GHz) | Tray": "1209.99 лв."
+    },
+    {
+        "Intel Core i9-13900K (5.8GHz) | BOX w/o Fan": "1248.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X3D (5.7GHz) | Tray": "1339.99 лв."
+    },
+    {
+        "AMD Ryzen 3 3200G (4.0GHz) | BOX": "158.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4500 (4.1GHz) | MPK": "159.99 лв."
+    },
+    {
+        "Intel Core i3-10105F (4.4GHz) | BOX": "164.99 лв."
+    },
+    {
+        "Intel® Pentium® Gold G6400 Processor\r\n(4M Cache, 4.00 GHz) BOX": "164.99 лв."
+    },
+    {
+        "AMD Ryzen 5 3600 (4.2GHz) | BOX ": "174.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4300G (4.0GHz) | BOX": "184.99 лв."
+    },
+    {
+        "Intel Pentium Gold G7400 (3.7GHz) | BOX": "194.99 лв."
+    },
+    {
+        "Intel Core i3-12100F (4.3GHz) | BOX": "194.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5500 6-Cores (Up to 4.2GHz, 19MB, 65W, AM4) Tray": "199.99 лв."
+    },
+    {
+        "AMD Ryzen 5 PRO 4650G (4.2GHz) | MPK": "204.99 лв."
+    },
+    {
+        "Intel Core i3-10100 (4.3GHz) | BOX": "209.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5500 (4.2GHz) | BOX": "209.99 лв."
+    },
+    {
+        "Intel Core i5-10400F (4.3GHz) | BOX": "218.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4600G (4.2GHz) | BOX": "219.99 лв."
+    },
+    {
+        "Intel® Core i3-10105 (4.4GHz) | BOX": "224.99 лв."
+    },
+    {
+        "Intel Core i3-10300 (4.4GHz) | Tray": "244.99 лв."
+    },
+    {
+        "Intel Core i3-12100 (4.3GHz) | BOX": "249.99 лв."
+    },
+    {
+        "Intel Core i5-11400F (4.4GHz) | BOX": "258.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600G 6-Core (Up to 4.4GHz, 20MB, 65W, AM4) MPK": "264.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5500GT (3.6GHz) | BOX": "268.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600G (4.4GHz) | BOX": "268.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600 (4.4GHz) | BOX": "279.99 лв."
+    },
+    {
+        "Intel Core i5-10400 (4.3GHz) | BOX": "289.99 лв."
+    },
+    {
+        "Intel Core i5-12400F (4.4GHz) | BOX": "294.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600GT (3.6GHz) | BOX": "304.99 лв."
+    },
+    {
+        "Intel Core i3-13100 (4.5GHz) | BOX": "319.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz) | MPK": "324.99 лв."
+    },
+    {
+        "Intel Core i3-14100 (3.5GHz) BOX": "324.99 лв."
+    },
+    {
+        "Intel Core i5-11400 (4.4GHz) | BOX": "324.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz) | BOX": "334.99 лв."
+    },
+    {
+        "Intel Core i5-12400 (4.4GHz) | BOX": "358.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700G (4.6GHz) | MPK": "369.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7500F MPK": "374.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700G (4.6GHz) | BOX": "379.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X (3.4GHz/4.6GHz) | BOX w/o Fan": "388.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700 (3.7GHz) | BOX": "388.99 лв."
+    },
+    {
+        "Intel® Core i5-11600K (4.9GHz) | BOX w/o Fan": "394.99 лв."
+    },
+    {
+        "AMD Ryzen 5 8500G (3.5GHz) | BOX": "408.99 лв."
+    },
+    {
+        "Intel Core i5-11500 (4.6GHz) | BOX": "414.99 лв."
+    },
+    {
+        "Intel Core i5-12600KF (4.9GHz) | BOX w/o Fan": "439.99 лв."
+    },
+    {
+        "Intel Core i5-13400F (4.6GHz) | BOX": "444.99 лв."
+    },
+    {
+        "Intel Core i7-10700F (4.8GHz) | BOX": "454.99 лв."
+    },
+    {
+        "Intel Core i7-10700KF (5.1GHz) | BOX w/o Fan": "454.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600 (5.1GHz) | BOX": "459.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5800X (4.7GHz) | BOX w/o Fan": "474.99 лв."
+    },
+    {
+        "Intel Core i5-10600K (4.8GHz) | BOX w/o Fan": "484.99 лв."
+    },
+    {
+        "Intel Core i7-11700 (4.9GHz) | BOX": "489.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700 MPK": "494.99 лв."
+    },
+    {
+        "AMD Ryzen 5 8600G (4.3GHz) | BOX": "499.99 лв."
+    },
+    {
+        "AMD Ryzen 7 PRO 7745 MPK": "499.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600X (5.3GHz) | BOX w/o Fan": "504.99 лв."
+    },
+    {
+        "Intel Core i5-11600KF (4.9GHz) | BOX w/o Fan": "508.99 лв."
+    },
+    {
+        "Intel Core i5-13400 (4.6GHz) | BOX": "514.99 лв."
+    },
+    {
+        "Intel Core i5-14400 (2.5GHz) BOX": "518.99 лв."
+    },
+    {
+        "Intel Core i7-10700 (4.8GHz) | BOX": "528.99 лв."
+    },
+    {
+        "Intel Core i5-14500 (2.6GHz) BOX": "538.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X3D (3.0GHz) | BOX": "544.99 лв."
+    },
+    {
+        "Intel Core i5-12600K (4.9GHz) | BOX w/o Fan": "548.99 лв."
+    },
+    {
+        "Intel Core i5-10500 (4.5GHz) | BOX": "549.99 лв."
+    },
+    {
+        "Intel® Core™ i9-10900F (20M Cache, up to 5.20 GHz) BOX": "549.99 лв."
+    },
+    {
+        "Intel Core i5-12600 (4.8GHz) | BOX": "554.99 лв."
+    },
+    {
+        "Intel Core i7-12700F (4.9GHz) | BOX": "619.99 лв."
+    },
+    {
+        "Intel Core i7-12700KF (5.0GHz) | BOX w/o Fan": "619.99 лв."
+    },
+    {
+        "Intel Core i5-14600KF (3.5GHz up to 5.3GHz) BOX": "629.99 лв."
+    },
+    {
+        "Intel Core i7-10700K (5.1GHz) | BOX w/o Fan": "649.99 лв."
+    },
+    {
+        "Intel Core i7-12700K (5.0GHz) | BOX w/o Fan": "669.99 лв."
+    },
+    {
+        "Intel Core i5-13600K (3.5GHz/5.1GHz) | BOX w/o Fan": "674.99 лв."
+    },
+    {
+        "Intel Core i7-12700 (4.9GHz) | BOX": "684.99 лв."
+    },
+    {
+        "Intel Core i5-14600K (3.5GHz up to 5.3GHz) BOX": "688.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700X (5.4GHz) | BOX w/o Fan": "689.99 лв."
+    },
+    {
+        "AMD Ryzen 7 8700G (4.2GHz) | BOX": "739.99 лв."
+    },
+    {
+        "Intel Core i9-11900F (5.2GHz) | BOX w/o Fan": "778.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900 (5.4GHz) | BOX": "789.99 лв."
+    },
+    {
+        "Intel Core i7-14700F (2.1GHz) BOX": "798.99 лв."
+    },
+    {
+        "Intel Core i7-13700F (5.2GHz) | BOX": "799.99 лв."
+    },
+    {
+        "Intel Core i9-11900F (5.2Ghz) | Tray": "819.99 лв."
+    },
+    {
+        "Intel Core i7-13700KF (5.4GHz) | Tray": "839.99 лв."
+    },
+    {
+        "Intel Core i7-11700KF (5.0GHz) | BOX w/o Fan": "844.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900X (5.6GHz) | BOX w/o Fan": "844.99 лв."
+    },
+    {
+        "Intel Core i7-11700K (5.0GHz) | BOX w/o Fan": "849.99 лв."
+    },
+    {
+        "Intel Core i9-11900 (5.2GHz) | BOX": "849.99 лв."
+    },
+    {
+        "Intel Core i7-13700 (5.4GHz) | BOX": "854.99 лв."
+    },
+    {
+        "Intel Core i7-14700 (2.1GHz) BOX": "869.99 лв."
+    },
+    {
+        "Intel Core i7-13700K (5.4GHz) | BOX w/o Fan": "894.99 лв."
+    },
+    {
+        "Intel Core i7-14700K (3.4GHz up to 5.6GHz) BOX": "908.99 лв."
+    },
+    {
+        "Intel Core i9-11900K (5.3GHz) | Tray": "949.99 лв."
+    },
+    {
+        "Intel® Core™ i9-12900K(30M Cache, up to 5.20 GHz) BOX": "959.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900X3D (5.6GHz) | BOX w/o Fan": "979.99 лв."
+    },
+    {
+        "Intel Core i9-12900 (5.1GHz) | BOX": "989.99 лв."
+    },
+    {
+        "Intel Core i9-12900F (5.1GHz) | BOX w/o Fan": "1044.99 лв."
+    },
+    {
+        "Intel Core i9-10900 (5.2GHz) | BOX": "1054.99 лв."
+    },
+    {
+        "Intel Xeon Silver 4208 (3.2GHz) | BOX w/o Fan": "1099.99 лв."
+    },
+    {
+        "Intel Core i9-13900F (5.6GHz) | BOX": "1189.99 лв."
+    },
+    {
+        "Intel Core i9-12900KS (5.5GHz) | BOX w/o Fan": "1199.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X (5.7GHz) | BOX w/o Fan": "1199.99 лв."
+    },
+    {
+        "Intel Core i9-13900KF (5.8GHz) | BOX w/o Fan": "1209.99 лв."
+    },
+    {
+        "Intel Core i9-14900KF (3.2GHz up to 6GHz) BOX": "1214.99 лв."
+    },
+    {
+        "Intel Core i9-14900F (2.0GHz) BOX": "1224.99 лв."
+    },
+    {
+        "Intel Core i9-13900 (5.6GHz) | BOX": "1259.99 лв."
+    },
+    {
+        "Intel Core i9-14900K (3.2GHz up to 6GHz) BOX": "1274.99 лв."
+    },
+    {
+        "Intel Core i9-14900 (2.0GHz) BOX": "1279.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X3D (5.7GHz) | BOX w/o Fan": "1328.99 лв."
+    },
+    {
+        "Intel Core i9-13900KS 2.4GHZ 36M BOX 1700": "1579.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 3955WX (16C/32T,4.3GHz) Tray": "2759.99 лв."
+    },
+    {
+        "Intel Xeon Gold 6240(3.9GHz) | Tray": "3599.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper 7960X BOX WOF": "3699.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper 7970X (4.0GHz) | BOX w/o Fan": "5744.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5965WX (4.5Ghz) | BOX w/o Fan": "6399.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5975WX (4.5Ghz) | BOX w/o Fan": "8699.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper 7980X BOX WOF": "12499.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5995WX (4.5GHz) | BOX w/o Fan": "16999.99 лв."
+    },
+    {
+        "Intel Core i3-10100F (4.3GHz)": "134.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4500 (4.1GHz)": "164.99 лв."
+    },
+    {
+        "AMD Ryzen 3 PRO 1200 (3.4GHz)": "169.99 лв."
+    },
+    {
+        "Intel Core i3-13100F (4.5GHz)": "259.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600 (4.4GHz)": "269.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz)": "339.99 лв."
+    },
+    {
+        "Intel Core i5-10600KF (4.8GHz)": "339.99 лв."
+    },
+    {
+        "AMD Ryzen 7 PRO 4750G (4.4 GHz)": "369.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X (4.6GHz)": "369.99 лв."
+    },
+    {
+        "Intel Core i5-13400F (4.6GHz)": "439.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600X (5.3GHz)": "494.99 лв."
+    },
+    {
+        "Intel Core i5-12500 (4.6GHz)": "498.99 лв."
+    },
+    {
+        "Intel Core i5-13500 (4.8GHz)": "519.99 лв."
+    },
+    {
+        "Intel Core i5-11600 (4.8GHz)": "599.99 лв."
+    },
+    {
+        "Intel Celeron G5905 (3.5GHz)": "89.99 лв."
+    },
+    {
+        "Intel Celeron G5905 (3.5GHz)": "109.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4100 (4.0GHz)": "144.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4100 (4.0GHz)": "144.99 лв."
+    },
+    {
+        "Intel Celeron G6900 (3.4GHz)": "144.99 лв."
+    },
+    {
+        "Intel Pentium Gold G6405 (4.1GHz)": "148.99 лв."
+    },
+    {
+        "Intel Core i7-12700KF (5.0GHz)": "619.99 лв."
+    },
+    {
+        "Intel Core i5-13600KF (3.5GHz/5.1GHz)": "624.99 лв."
+    },
+    {
+        "Intel Core i5-13600KF (3.5GHz/5.1GHz)": "629.99 лв."
+    },
+    {
+        "Intel Core i5-14600KF (3.5GHz/5.3GHz)": "639.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5800X3D (4.5GHz)": "644.99 лв."
+    },
+    {
+        "AMD Ryzen 9 5900X (4.8GHz)": "644.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700 (5.3GHz)": "664.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700X (5.4GHz)": "719.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7800X3D (5.0GHz)": "838.99 лв."
+    },
+    {
+        "Intel Core i7-13700KF (5.4GHz)": "859.99 лв."
+    },
+    {
+        "Intel Core i9-12900KF (5.2GHz)": "919.99 лв."
+    },
+    {
+        "AMD Ryzen 9 5950X (4.9GHz)": "1048.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X (4.5GHz)": "1158.99 лв."
+    },
+    {
+        "Intel Core i9-13900KF (3.0GHz/5.8GHz)": "1209.99 лв."
+    },
+    {
+        "Intel Core i9-13900K (5.8GHz)": "1248.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X3D (5.7GHz)": "1339.99 лв."
+    },
+    {
+        "AMD Ryzen 3 3200G (4.0GHz)": "158.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4500 (4.1GHz)": "159.99 лв."
+    },
+    {
+        "Intel Core i3-10105F (4.4GHz)": "164.99 лв."
+    },
+    {
+        "AMD Ryzen 5 3600 (4.2GHz)": "174.99 лв."
+    },
+    {
+        "AMD Ryzen 3 4300G (4.0GHz)": "184.99 лв."
+    },
+    {
+        "Intel Pentium Gold G7400 (3.7GHz)": "194.99 лв."
+    },
+    {
+        "Intel Core i3-12100F (4.3GHz)": "194.99 лв."
+    },
+    {
+        "AMD Ryzen 5 PRO 4650G (4.2GHz)": "204.99 лв."
+    },
+    {
+        "Intel Core i3-10100 (4.3GHz)": "209.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5500 (4.2GHz)": "209.99 лв."
+    },
+    {
+        "Intel Core i5-10400F (4.3GHz)": "218.99 лв."
+    },
+    {
+        "AMD Ryzen 5 4600G (4.2GHz)": "219.99 лв."
+    },
+    {
+        "Intel® Core i3-10105 (4.4GHz)": "224.99 лв."
+    },
+    {
+        "Intel Core i3-10300 (4.4GHz)": "244.99 лв."
+    },
+    {
+        "Intel Core i3-12100 (4.3GHz)": "249.99 лв."
+    },
+    {
+        "Intel Core i5-11400F (4.4GHz)": "258.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5500GT (3.6GHz)": "268.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600G (4.4GHz)": "268.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600 (4.4GHz)": "279.99 лв."
+    },
+    {
+        "Intel Core i5-10400 (4.3GHz)": "289.99 лв."
+    },
+    {
+        "Intel Core i5-12400F (4.4GHz)": "294.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600GT (3.6GHz)": "304.99 лв."
+    },
+    {
+        "Intel Core i3-13100 (4.5GHz)": "319.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz)": "324.99 лв."
+    },
+    {
+        "Intel Core i5-11400 (4.4GHz)": "324.99 лв."
+    },
+    {
+        "AMD Ryzen 5 5600X (4.6GHz)": "334.99 лв."
+    },
+    {
+        "Intel Core i5-12400 (4.4GHz)": "358.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700G (4.6GHz)": "369.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700G (4.6GHz)": "379.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X (3.4GHz/4.6GHz)": "388.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700 (3.7GHz)": "388.99 лв."
+    },
+    {
+        "Intel® Core i5-11600K (4.9GHz)": "394.99 лв."
+    },
+    {
+        "AMD Ryzen 5 8500G (3.5GHz)": "408.99 лв."
+    },
+    {
+        "Intel Core i5-11500 (4.6GHz)": "414.99 лв."
+    },
+    {
+        "Intel Core i5-12600KF (4.9GHz)": "439.99 лв."
+    },
+    {
+        "Intel Core i5-13400F (4.6GHz)": "444.99 лв."
+    },
+    {
+        "Intel Core i7-10700F (4.8GHz)": "454.99 лв."
+    },
+    {
+        "Intel Core i7-10700KF (5.1GHz)": "454.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600 (5.1GHz)": "459.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5800X (4.7GHz)": "474.99 лв."
+    },
+    {
+        "Intel Core i5-10600K (4.8GHz)": "484.99 лв."
+    },
+    {
+        "Intel Core i7-11700 (4.9GHz)": "489.99 лв."
+    },
+    {
+        "AMD Ryzen 5 8600G (4.3GHz)": "499.99 лв."
+    },
+    {
+        "AMD Ryzen 5 7600X (5.3GHz)": "504.99 лв."
+    },
+    {
+        "Intel Core i5-11600KF (4.9GHz)": "508.99 лв."
+    },
+    {
+        "Intel Core i5-13400 (4.6GHz)": "514.99 лв."
+    },
+    {
+        "Intel Core i7-10700 (4.8GHz)": "528.99 лв."
+    },
+    {
+        "AMD Ryzen 7 5700X3D (3.0GHz)": "544.99 лв."
+    },
+    {
+        "Intel Core i5-12600K (4.9GHz)": "548.99 лв."
+    },
+    {
+        "Intel Core i5-10500 (4.5GHz)": "549.99 лв."
+    },
+    {
+        "Intel Core i5-12600 (4.8GHz)": "554.99 лв."
+    },
+    {
+        "Intel Core i7-12700F (4.9GHz)": "619.99 лв."
+    },
+    {
+        "Intel Core i7-12700KF (5.0GHz)": "619.99 лв."
+    },
+    {
+        "Intel Core i7-10700K (5.1GHz)": "649.99 лв."
+    },
+    {
+        "Intel Core i7-12700K (5.0GHz)": "669.99 лв."
+    },
+    {
+        "Intel Core i5-13600K (3.5GHz/5.1GHz)": "674.99 лв."
+    },
+    {
+        "Intel Core i7-12700 (4.9GHz)": "684.99 лв."
+    },
+    {
+        "AMD Ryzen 7 7700X (5.4GHz)": "689.99 лв."
+    },
+    {
+        "AMD Ryzen 7 8700G (4.2GHz)": "739.99 лв."
+    },
+    {
+        "Intel Core i9-11900F (5.2GHz)": "778.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900 (5.4GHz)": "789.99 лв."
+    },
+    {
+        "Intel Core i7-13700F (5.2GHz)": "799.99 лв."
+    },
+    {
+        "Intel Core i9-11900F (5.2Ghz)": "819.99 лв."
+    },
+    {
+        "Intel Core i7-13700KF (5.4GHz)": "839.99 лв."
+    },
+    {
+        "Intel Core i7-11700KF (5.0GHz)": "844.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900X (5.6GHz)": "844.99 лв."
+    },
+    {
+        "Intel Core i7-11700K (5.0GHz)": "849.99 лв."
+    },
+    {
+        "Intel Core i9-11900 (5.2GHz)": "849.99 лв."
+    },
+    {
+        "Intel Core i7-13700 (5.4GHz)": "854.99 лв."
+    },
+    {
+        "Intel Core i7-13700K (5.4GHz)": "894.99 лв."
+    },
+    {
+        "Intel Core i9-11900K (5.3GHz)": "949.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7900X3D (5.6GHz)": "979.99 лв."
+    },
+    {
+        "Intel Core i9-12900 (5.1GHz)": "989.99 лв."
+    },
+    {
+        "Intel Core i9-12900F (5.1GHz)": "1044.99 лв."
+    },
+    {
+        "Intel Core i9-10900 (5.2GHz)": "1054.99 лв."
+    },
+    {
+        "Intel Xeon Silver 4208 (3.2GHz)": "1099.99 лв."
+    },
+    {
+        "Intel Core i9-13900F (5.6GHz)": "1189.99 лв."
+    },
+    {
+        "Intel Core i9-12900KS (5.5GHz)": "1199.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X (5.7GHz)": "1199.99 лв."
+    },
+    {
+        "Intel Core i9-13900KF (5.8GHz)": "1209.99 лв."
+    },
+    {
+        "Intel Core i9-13900 (5.6GHz)": "1259.99 лв."
+    },
+    {
+        "AMD Ryzen 9 7950X3D (5.7GHz)": "1328.99 лв."
+    },
+    {
+        "Intel Xeon Gold 6240(3.9GHz)": "3599.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper 7970X (4.0GHz)": "5744.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5965WX (4.5Ghz)": "6399.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5975WX (4.5Ghz)": "8699.99 лв."
+    },
+    {
+        "AMD Ryzen Threadripper PRO 5995WX (4.5GHz)": "16999.99 лв."
+    }
+]

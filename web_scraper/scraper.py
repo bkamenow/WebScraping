@@ -10,6 +10,12 @@ def sort_info(info):
     return sorted(info, key=lambda x: float(x[1].replace(' лв.', '')))
 
 
+def print_info(info):
+    print('Name: Price')
+    for name, price in info:
+        print(f"{name}: {price}")
+
+
 def scrape_page(url, pattern=None, replace_list=None):
     data = []
     if url == '' or url is None:
@@ -59,6 +65,23 @@ def get_data(content, pattern, replace_list):
     return sort_list
 
 
+def get_info(data, file_path):
+    try:
+        existing_info = load_existing_info(file_path)
+
+        updated_info = update_info(existing_info, data, file_path)
+
+        if len(updated_info) != len(existing_info):
+            print("Update message: New information has been added.")
+        else:
+            print("Nothing new.")
+
+        print_info(data)
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+
 def load_existing_info(file_path):
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         try:
@@ -81,9 +104,3 @@ def update_info(existing_info, new_info, file_path):
         json.dump(updated_info, file, indent=4, ensure_ascii=False)
 
     return updated_info
-
-
-def print_info(info):
-    print('Name: Price')
-    for name, price in info:
-        print(f"{name}: {price}")

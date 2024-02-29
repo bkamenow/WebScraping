@@ -12,6 +12,8 @@ def sort_info(info):
 
 def scrape_page(url, pattern=None, replace_list=None):
     data = []
+    if url == '' or url is None:
+        raise ValueError('Url cannot be empty')
     while url:
         response = requests.get(url)
         response.raise_for_status()
